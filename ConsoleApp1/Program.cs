@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Доброе утро!");
 
             Console.WriteLine("Добрый день!");
+
+            Console.WriteLine("Добрый вечер!");
         }
     }
 }
